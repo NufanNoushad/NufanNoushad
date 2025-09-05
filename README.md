@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nufan</h1>
+<h1 align="left">Hi 👋, I'm Nufan</h1>
 <h3 align="center">A SWE student and Aspiring DevOps Engineer</h3>
 
 - 🌱 I’m currently learning: **Linux, Git and Bash**

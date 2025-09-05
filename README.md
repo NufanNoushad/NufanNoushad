@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nufan</h1>
 <h3 align="center">A SWE student and Aspiring DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **Linux, Git**
+- 🌱 I’m currently learning: **Linux, Git and Bash**
 
-- 📫 How to reach me **nufannoushad@gmail.com**
+- 📫 How to reach me: **nufannoushad@gmail.com**
 
-- ⚡ Fun fact **I run an active community of 400+ BTEC students!**
+- ⚡ Fun fact: **I run an active community of 400+ BTEC students!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Nufan</h1>
 
-- 🌱 I’m currently learning: **Linux, Git and Bash**
+- 🌱 I’m currently learning: **Bash**
 
 - 📫 How to reach me: **nufannoushad@gmail.com**
 

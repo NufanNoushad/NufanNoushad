@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nufan</h1>
 
-- 🌱 I’m currently learning: **Bash**
-
 - 📫 How to reach me: **nufannoushad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

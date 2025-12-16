@@ -1,4 +1,4 @@
-<h1 align="left">Hello👋, I'm Nufan</h1>
+<h1 align="left">Hello👋, I'm Nufan and i'm currently upskilling within the DevOps space.</h1>
 
 - 📫 How to reach me: **nufannoushad@gmail.com**
 

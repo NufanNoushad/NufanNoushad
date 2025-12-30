@@ -1,6 +1,6 @@
 <h1 align="left">Hello👋 I'm Nufan</h1>
 
-- 📫 How to reach me: **nufannoushad@gmail.com**
+📫 How to reach me: **nufannoushad@gmail.com**
 
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">

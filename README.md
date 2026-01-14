@@ -1,46 +1,42 @@
 <h1 align="left">Hello 👋 I'm Nufan</h1>
 
-📫 How to reach me: **nufannoushad@gmail.com**
+<p>
+Software Engineering student with a strong focus on <strong>DevOps</strong>.
+I enjoy building, breaking, and automating systems to understand how real-world infrastructure works.
+</p>
 
-<h3 align="left">Tools & Technologies:</h3>
+<p>
+🔧 <strong>Currently learning:</strong> CI/CD with <strong>GitHub Actions</strong><br>
+📫 <strong>Contact:</strong> <a href="mailto:nufannoushad@gmail.com">nufannoushad@gmail.com</a>
+</p>
+
+<h3 align="left">Tools & Technologies</h3>
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-      </a>
-      <br><strong>Linux</strong>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>
+      <strong>Linux</strong>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-      </a>
-      <br><strong>Git</strong>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br>
+      <strong>Git</strong>
     </td>
     <td align="center">
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-      </a>
-      <br><strong>Bash</strong>
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/><br>
+      <strong>Bash</strong>
     </td>
     <td align="center">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-      </a>
-      <br><strong>Docker</strong>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br>
+      <strong>Docker</strong>
     </td>
     <td align="center">
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-      </a>
-      <br><strong>AWS</strong>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br>
+      <strong>AWS</strong>
     </td>
     <td align="center">
-      <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
-      </a>
-      <br><strong>Terraform</strong>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/><br>
+      <strong>Terraform</strong>
     </td>
   </tr>
 </table>

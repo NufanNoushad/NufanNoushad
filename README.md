@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋 I'm Nufan</h1>
 
 <p>
-Software Engineering background, currently studying at university, with a strong focus on <strong>DevOps</strong>.
+Software Engineering background with a strong focus on <strong>DevOps</strong>.
 I enjoy building, breaking, and automating systems to understand real-world infrastructure.
 </p>
 

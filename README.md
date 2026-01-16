@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋 I'm Nufan</h1>
 
 <p>
-Software Engineering background with a strong focus on <strong>DevOps</strong>.
+Software Engineering background with a strong focus on <strong>DevOps</strong>.<br>
 I enjoy building, breaking, and automating systems to understand real-world infrastructure.
 </p>
 
@@ -10,8 +10,12 @@ I enjoy building, breaking, and automating systems to understand real-world infr
 📫 <strong>Contact:</strong> <a href="mailto:nufannoushad@gmail.com">nufannoushad@gmail.com</a>
 </p>
 
-<h3 align="left">Tools & Technologies</h3>
+<h3 align="left">Learning Focus</h3>
+<p>
+I am currently deepening my knowledge in <strong>CI/CD pipelines</strong> using <strong>GitHub Actions</strong>, exploring automation of builds, tests, and deployments for real-world projects. This allows me to streamline development workflows and ensure reliable software delivery.
+</p>
 
+<h3 align="left">Tools & Technologies</h3>
 <table>
   <tr>
     <td align="center">

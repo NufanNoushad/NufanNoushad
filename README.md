@@ -1,7 +1,6 @@
 <h1 align="left">Hello 👋 I'm Nufan</h1>
 
 <p>
-  Software Engineering background with a strong focus on <strong>DevOps</strong>.<br>
   I enjoy building, breaking, and automating systems to understand real-world infrastructure.
 </p>
 

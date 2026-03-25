@@ -11,8 +11,7 @@
 
 <h3 align="left">Learning Focus</h3>
 <p>
-  I am currently deepening my knowledge in <strong>CI/CD pipelines</strong> using
-  <strong>GitHub Actions</strong>, exploring automation of builds, tests, and deployments
+  I am currently deepening my knowledge in <strong>cloud / devops exploring automation of builds, tests, and deployments
   for real-world projects. This allows me to streamline development workflows and ensure
   reliable software delivery.
 </p>

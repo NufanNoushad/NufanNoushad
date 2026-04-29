@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  👨‍💻 <strong>Incoming Technical Intern @ SAS <strong></strong><br>
+  👨‍💻 <strong> Technical Support Intern @ SAS <strong></strong><br>
   📫 <strong>Contact:</strong> <a href="mailto:nufannoushad@gmail.com">nufannoushad@gmail.com</a>
 </p>
 

@@ -15,7 +15,7 @@
   reliable software delivery.
 </p>
 
-<h3 align="left">Tools & Technologies</h3>
+<h3 align="left">My Tech Stack</h3>
 
 <table>
   <tr>

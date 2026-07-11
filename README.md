@@ -8,13 +8,6 @@
   📫 <strong>Contact:</strong> <a href="mailto:nufannoushad@gmail.com">nufannoushad@gmail.com</a>
 </p>
 
-<h3 align="left">Learning Focus</h3>
-<p>
-  I am currently deepening my knowledge within <strong>cloud / devops</strong>, exploring automation of builds, tests, and deployments
-  for real-world projects. This allows me to streamline development workflows and ensure
-  reliable software delivery.
-</p>
-
 <h3 align="left">My Tech Stack</h3>
 
 <table>

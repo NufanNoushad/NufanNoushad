@@ -1,45 +1,32 @@
 <h1 align="left">Hello 👋 I'm Nufan</h1>
 
 <p>
-  I enjoy building, breaking, and automating systems to understand real-world infrastructure.
+  I enjoy building, breaking, and automating systems to better understand real-world infrastructure.
 </p>
 
 <p>
-  📫 <strong>Contact:</strong> <a href="mailto:nufannoushad@gmail.com">nufannoushad@gmail.com</a>
+  📫 <strong>Contact:</strong>
+  <a href="mailto:nufannoushad@gmail.com">nufannoushad@gmail.com</a>
 </p>
 
-<h3 align="left">My Tech Stack</h3>
+<h3>Tech Stack</h3>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><br>
-      <strong>Linux</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br>
-      <strong>Git</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/><br>
-      <strong>Bash</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br>
-      <strong>Docker</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/><br>
-      <strong>AWS</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/><br>
-      <strong>Terraform</strong>
-    </td>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Actions"/>
+</p>
 
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br>
-      <strong>GitHub Actions</strong>
-    </td>
-  </tr>
-</table>
+<p>
+  <strong>Linux</strong> • 
+  <strong>Git</strong> • 
+  <strong>Bash</strong> • 
+  <strong>Docker</strong> • 
+  <strong>AWS</strong> • 
+  <strong>Terraform</strong> • 
+  <strong>GitHub Actions</strong>
+</p>

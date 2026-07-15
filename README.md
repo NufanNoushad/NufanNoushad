@@ -1,10 +1,6 @@
 <h1 align="left">Hello 👋 I'm Nufan</h1>
 
 <p>
-  I enjoy building, breaking, and automating systems to better understand real-world infrastructure.
-</p>
-
-<p>
   📫 <strong>Contact:</strong>
   <a href="mailto:nufannoushad@gmail.com">nufannoushad@gmail.com</a>
 </p>
